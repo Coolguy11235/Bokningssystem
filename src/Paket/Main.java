@@ -55,7 +55,7 @@ public class Main {
                 "Harper Turner 19970902",
                 "William Clark 19580306",
                 "Madison Baker 19950406",
-                "Henry Wright 19891121",
+                null,
                 "Abigail Collins 19770511"
         };
     }
